@@ -1,9 +1,0 @@
-{
-  "nomedono": "O nome de dono do seu bot",
-  "numerodono": "digite seu número",
-  "nomebot": "Nome do seu bot",
-  "prefixo": "!",
-  "aviso": false,
-  "debug": false,
-  "enablePanel": false
-}
